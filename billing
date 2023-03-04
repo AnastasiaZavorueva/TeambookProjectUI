@@ -2,4 +2,4 @@ Billing QA for Teambook:
 1) Select any plan you like on Subsccription page inside Organization settings
 2) Enter data to create a Client of Teambook (data could be random)
 3) Enter Credit card information (https://developer.paypal.com/braintree/docs/guides/credit-cards/testing-go-live/php)
-4) check that subscription gor updated and plan is selected
+4) check that subscription got updated and plan is selected
